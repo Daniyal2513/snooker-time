@@ -174,7 +174,7 @@ export default function App() {
     <main>
       <nav className={scrolled ? "nav scrolled" : "nav"}>
         <a className="brand" href="#home" aria-label="It's Snooker Time home">
-          <img className="brand-logo header-logo" src="/LOGO.png" alt="It's Snooker Time Cafe" />
+          <img className="brand-logo header-logo" src="/public/LOGO.png" alt="It's Snooker Time Cafe" />
         </a>
         <div className="nav-links">
           {navItems.map(([label, id]) => <a href={`#${id}`} key={id}>{label}</a>)}
