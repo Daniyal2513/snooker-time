@@ -1,0 +1,10 @@
+{
+  "description": "Book premium gaming experiences at a luxury lounge featuring snooker, pool, table tennis, and PS5 with real-time pricing and seamless reservations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
