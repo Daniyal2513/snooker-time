@@ -54,7 +54,7 @@ em { color: var(--green); font-style: normal; }
 .availability { display: inline-flex; align-items: center; gap: 10px; margin-bottom: 30px; padding: 9px 13px; border: 1px solid var(--line); background: rgba(10,10,10,.42); backdrop-filter: blur(10px); text-transform: uppercase; letter-spacing: .16em; font-size: 9px; font-weight: 500; color: #c9c9c9; }
 .availability > span { width: 7px; height: 7px; border-radius: 50%; background: var(--bright-green); box-shadow: 0 0 12px var(--bright-green); animation: pulse 1.8s infinite; }
 .availability strong { color: var(--white); padding-left: 10px; border-left: 1px solid var(--line); }
-.hero h1 { margin: 0; max-width: 880px; font-size: clamp(58px, 8.4vw, 130px); line-height: .84; letter-spacing: -.07em; font-weight: 800; }
+.hero h1 { margin: 0; max-width: 880px; font-size: clamp(58px, 8.4vw, 130px); line-height: .94; letter-spacing: -.07em; font-weight: 800; }
 .hero h1 em { text-shadow: 0 0 45px rgba(10,139,68,.25); }
 .hero-content > p { width: min(520px, 100%); margin: 34px 0; color: #b1b1b1; font-size: 17px; line-height: 1.75; }
 .hero-actions { display: flex; align-items: center; gap: 34px; }
